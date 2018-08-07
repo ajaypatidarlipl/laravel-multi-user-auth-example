@@ -1,6 +1,8 @@
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 # Laravel Multi User Auth Guard Example
 
-This repo is an Laravel 5.6 setup with Auth Guards for multiple users (Customer & Admin).
+This repo is a Laravel 5.6 setup with Auth Guards for multiple users (Customer & Admin).
 
 For simplicity and to get up and running quicker there are login/register pages for both customer and admin.
 
@@ -18,7 +20,7 @@ cp .env.example .env
 
 And update settings accordingly
 
-## Scafford Authentication
+## Scaffold Authentication
 
 ```
 php artisan make:auth
